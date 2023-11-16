@@ -1,4 +1,8 @@
-### Hi there 👋
+<p>
+  <a href="https://profile.codersrank.io/user/mindarlynn/">
+    <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mindarlynn"/>
+  </a>
+</p>
 
 <!--
 **Mindarlynn/Mindarlynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
