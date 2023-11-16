@@ -2,7 +2,10 @@
   <a href="https://profile.codersrank.io/user/mindarlynn/">
     <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mindarlynn"/>
   </a>
-  <img style="width: 960px" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mindarlynn&skills=C%2B%2B,C%23,Erlang,Python,Swift"/>
+  <a href="https://profile.codersrank.io/user/mindarlynn/">
+    <img style="width: 960px" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mindarlynn&skills=C%2B%2B,C%23,Erlang,Python,Swift"/>
+  </a>
+  
 </p>
 
 <!--
