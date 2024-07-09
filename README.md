@@ -10,8 +10,6 @@ Incomming SWE@Japanese Mobile Network Operator<br>Ex-SWE@Republic of Korea Air F
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) <br/> 
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mindarlynn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mindarlynn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mindarlynn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Top Contributed Repo
