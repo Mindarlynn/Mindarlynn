@@ -1,5 +1,5 @@
 # About Me:
-Incomming SWE@Japanese Mobile Network Operator<br>Ex-SWE@Republic of Korea Air Force<br>Graduated CSE@Inha University
+Upcoming SWE@Japanese Mobile Network Operator<br>Ex-SWE@Republic of Korea Air Force<br>Graduated CSE@Inha University
 
 
 ## Socials:
