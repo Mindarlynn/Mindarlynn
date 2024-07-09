@@ -16,8 +16,3 @@ Incomming SWE@Japanese Mobile Network Operator<br>Ex-SWE@Republic of Korea Air F
 
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mindarlynn&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=mindarlynn&icon=0&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
