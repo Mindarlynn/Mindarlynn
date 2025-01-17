@@ -1,6 +1,6 @@
 ## Personal Information
-Upcoming SWE@Japanese Mobile Network Operator<br/>
-Ex-SWE@Republic of Korea Air Force<br/>
+Upcoming Software Engineer@Japanese Mobile Network Operator<br/>
+Ex Software Engineer@Republic of Korea Air Force<br/>
 BSE - Computer Engineering@Inha University<br/><br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yegukwon) 
 
