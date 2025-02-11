@@ -9,4 +9,4 @@ BSE - Computer Engineering@Inha University<br/><br/>
 ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533)
 
 ## Leetcode stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/wt2080?extension=activity)](https://leetcode.com/u/wt2080/) [![Leetcode Stats](https://leetcard.jacoblin.cool/mindarlynn?extension=activity)](https://leetcode.com/u/mindarlynn/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/wt2080?extension=activity)](https://leetcode.com/u/wt2080/)
