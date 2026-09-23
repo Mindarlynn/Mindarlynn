@@ -2,7 +2,8 @@
 |Degree|Major|Organization|Location|Period|
 |:-:|:-:|:-:|:-:|:-:|
 |M.Sc.|Computer Science|<img alt="The University of Texas at Austin" src="./assets/ut.svg" width="180px"/><br/><sup>The University of Texas at Austin</sup>|Austin, TX<br/><sup>Remote</sup>|Jan, 2027 - |
-|B.Sc. in Engineering|Computer Engineering|<img alt="Inha University" src="./assets/inha.svg" width="180px"/><br/><sup>Inha University \| 인하대학교</sup>|Incheon, Korea|Mar, 2018 - Feb, 2024|
+|B.Sc. in Engineering|Computer Engineering<br/><sup>컴퓨터공학</sup>|<img alt="Inha University" src="./assets/inha.svg" width="180px"/><br/><sup>Inha University \| 인하대학교</sup>|Incheon, Korea|Mar, 2018 - Feb, 2024|
+|High School Diploma|Computer Game Production<br/><sup>컴퓨터게임제작</sup>|<img alt="Korea Animation High School" src="./assets/kah.svg" width="180px"/><br/><sup>Korea Animation High School \| 한국애니메이션고등학교</sup>|Hanam, Korea|Mar, 2015 - Feb, 2028|
 
 
 ## Experience
