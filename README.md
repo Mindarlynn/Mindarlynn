@@ -8,7 +8,7 @@ Bacheor of Science in Engineering, Computer Engineering @ Inha University
 |Project Manager (RAN NPI)|Rakuten Mobile, Inc.|Tokyo, Japan|Apr, 2025 - Present|
 |Software Engineer (E-5)|Republic of Korea Air Force|Osan Air Base|Jul, 2019 - Apr, 2021|
 
-[![Contact](https://img.shields.io/badge/contact-lightgreen)](mailto:yegu@utexas.edu)
+[![Contact](https://img.shields.io/badge/Contact-lightgreen)](mailto:yegu@utexas.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yegukwon) 
 
 ## Languages
