@@ -1,6 +1,6 @@
 ## Education
-Master's student, Computer Science @ [The University of Texas at Austin](https://www.utexas.edu/)<br/>
-Bacheor of Science in Engineering, Computer Engineering @ [Inha University](https://eng.inha.ac.kr/eng/index.do)
+Master's student, Computer Science @ The University of Texas at Austin<br/>
+Bacheor of Science in Engineering, Computer Engineering @ Inha University
 
 ## Experience
 |Title|Organization|Location|Period|
