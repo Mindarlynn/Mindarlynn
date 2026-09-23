@@ -3,7 +3,7 @@
 |:-:|:-:|:-:|:-:|:-:|
 |M.Sc.|Computer Science|<img alt="The University of Texas at Austin" src="./assets/ut.svg" width="180px"/><br/><sup>The University of Texas at Austin</sup>|Austin, TX<br/><sup>Remote</sup>|Jan, 2027 - |
 |B.Sc. in Engineering|Computer Engineering|<img alt="Inha University" src="./assets/inha.svg" width="180px"/><br/><sup>Inha University</sup>|Incheon, Korea|Mar, 2018 - Feb, 2024|
-|High School Diploma|Computer Game Production|<img alt="Korea Animation High School" src="./assets/kah.svg" width="180px"/><br/><sup>Korea Animation High School</sup>|Hanam, Korea|Mar, 2015 - Feb, 2028|
+|High School Diploma|Computer Game Production|<img alt="Korea Animation High School" src="./assets/kah.svg" width="180px"/><br/><sup>Korea Animation High School</sup>|Hanam, Korea|Mar, 2015 - Feb, 2018|
 
 
 ## Experience
