@@ -2,7 +2,7 @@
 |Degree|Major|Organization|Location|Period|
 |:-:|:-:|:-:|:-:|:-:|
 |Master of Science|Computer Science|<img alt="The University of Texas at Austin" src="./assets/ut.svg" width="180px"/><br/><sup>The University of Texas at Austin</sup>|Austin, TX<br/><sup>Remote</sup>|Jan, 2027 - |
-|Bachelor of Science<br/>in Engineering|Computer Engineering|<img alt="Inha University" src="./assets/inha.svg" width="180px"/><br/><sup>Inha University \| 인하대학교</sup>|Incheon, Korea|Mar, 2018 - Feb, 2024|
+|Bachelor of Science in Engineering|Computer Engineering|<img alt="Inha University" src="./assets/inha.svg" width="180px"/><br/><sup>Inha University \| 인하대학교</sup>|Incheon, Korea|Mar, 2018 - Feb, 2024|
 
 
 ## Experience
