@@ -9,7 +9,7 @@
 |Title|Organization|Location|Period|
 |:-:|:-:|:-:|:-:|
 |Project Manager<br/><sup>RAN NPI</sup>|<img alt="Rakuten Mobile, Inc." src="./assets/rmi.svg" width="180px"/><br/><sup>Rakuten Mobile, Inc. \| 楽天モバイル株式会社</sup>|Tokyo, Japan|Apr, 2025 - Present|
-|Software Engineer<br/><sup>SSgt (E-5)</sup>|<img alt="Republic of Korea Air Force" src="./assets/rokaf.svg" width="180px"><br/><sup>Republic of Korea Air Force \| 대한민국 공군</sup>|Osan Air Base|Jul, 2019 - Apr, 2021|
+|Software Engineer<br/><sup>SSgt (E-5)</sup>|<img alt="Republic of Korea Air Force" src="./assets/rokaf.svg" width="180px"><br/><sup>Republic of Korea Air Force \| 대한민국 공군</sup>|Osan Air Base|Jul, 2019 - Apr, 2021<br/><sup>1yr 10 mos</sup>|
 
 ## Languages
 ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533)
