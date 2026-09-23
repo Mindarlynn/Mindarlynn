@@ -1,6 +1,6 @@
 ## Education
 Master's student, Computer Science @ The University of Texas at Austin<br/>
-Bacheor of Science in Engineering, Computer Engineering @ Inha University
+Bachelor of Science in Engineering, Computer Engineering @ Inha University
 
 ## Experience
 |Title|Organization|Location|Period|
