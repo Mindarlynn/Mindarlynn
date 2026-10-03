@@ -1,17 +1,3 @@
-## Education
-|Degree|Major|Organization|Location|Period|
-|:-:|:-:|:-:|:-:|:-:|
-|M.Sc.|Computer Science|<img alt="The University of Texas at Austin" src="./assets/ut.svg" width="180px"/><br/><sup>The University of Texas at Austin</sup>|Austin, TX<br/><sup>Remote</sup>|Jan, 2027 - |
-|B.Sc. in Engineering|Computer Engineering|<img alt="Inha University" src="./assets/inha.svg" width="180px"/><br/><sup>Inha University</sup>|Incheon, Korea|Mar, 2018 - Feb, 2024|
-|High School Diploma|Computer Game Production|<img alt="Korea Animation High School" src="./assets/kah.svg" width="180px"/><br/><sup>Korea Animation High School</sup>|Hanam, Korea|Mar, 2015 - Feb, 2018|
-
-
-## Experience
-|Title|Organization|Location|Period|
-|:-:|:-:|:-:|:-:|
-|Project Manager<br/><sup>RAN NPI</sup>|<img alt="Rakuten Mobile, Inc." src="./assets/rmi.svg" width="180px"/><br/><sup>Rakuten Mobile, Inc.</sup>|Tokyo, Japan|Apr, 2025 - Present|
-|Software Engineer<br/><sup>SSgt (E-5)</sup>|<img alt="Republic of Korea Air Force" src="./assets/rokaf.svg" width="180px"><br/><sup>Republic of Korea Air Force</sup>|Osan Air Base|Jul, 2019 - Apr, 2021<br/><sup>1 yr 10 mos</sup>|
-
 ## Languages
 ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
